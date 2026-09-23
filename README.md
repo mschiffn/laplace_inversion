@@ -15,7 +15,7 @@
 [languages-shield]: https://img.shields.io/github/languages/count/mschiffn/laplace_inversion
 [stars-shield]: https://img.shields.io/github/stars/mschiffn/laplace_inversion.svg
 [forks-shield]: https://img.shields.io/github/forks/mschiffn/laplace_inversion.svg
-[youtube-shield]: https://img.shields.io/badge/YouTube-Watch
+[youtube-shield]: https://img.shields.io/badge/YouTube-Watch-blue?logo=youtube&logoColor=red
 [youtube-url]: https://youtu.be/FqSw7LY0XNI
 [ko-fi-shield]: https://img.shields.io/badge/ko--fi-Donate%20a%20coffee-yellowgreen
 [ko-fi-url]: https://ko-fi.com/L4L7CCWYS
